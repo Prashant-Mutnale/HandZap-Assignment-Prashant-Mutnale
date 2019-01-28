@@ -161,7 +161,7 @@ h1{
     right: 0;
 	top: 61px;
 	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.25);
-	transition: all 0.3s ease;
+	transition: all 0.2s ease-in-out;
 	opacity: 0;
 	visibility: hidden;
 }
